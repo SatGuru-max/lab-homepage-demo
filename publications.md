@@ -1,0 +1,2 @@
+S. Zheng, X. Zhang, Q. Z. Sheng and W. Wang, "Topology-Aware Cooperative Beam-Hopping Scheduling for Efficient Resource Allocation in LEO Satellite Systems," in IEEE Wireless Communications Letters, vol. 15, pp. 5830-5834, 2026, doi: 10.1109/LWC.2026.3742358.
+S. Zheng, X. Zhang, M. Sheng, H. Wang and W. Wang, "Beam Hopping Low Earth Orbit Satellite Resource Allocation for Differentiated Services and Robustness Analysis under Model Attacks," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2026.3710750.
